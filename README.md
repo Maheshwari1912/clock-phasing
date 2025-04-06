@@ -44,4 +44,7 @@ This method ensures phase control without requiring external PLLs or clock buffe
 
 
 **simulation results:**
+![image](https://github.com/user-attachments/assets/b8d6f35f-3c5a-46c6-8eb0-361662811202)
+
+
 
